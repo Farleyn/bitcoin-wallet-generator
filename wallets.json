@@ -1,0 +1,16 @@
+{
+  "wallets": [
+    {
+      "index": 1,
+      "private_key_hex": "0000000000000000000000000000000000000000000000000000000000000001",
+      "private_key_wif": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU73sVHnoEo",
+      "address": "1BgGZ9tcN4rm9KBzDn7KprQz87SZ26SAMH"
+    },
+    {
+      "index": 2,
+      "private_key_hex": "0000000000000000000000000000000000000000000000000000000000000002",
+      "private_key_wif": "KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU74NMTptX4",
+      "address": "1cMh228HTCiwS8ZsaakH8A8wze1JR5ZsP"
+    }
+  ]
+}
